@@ -10,6 +10,10 @@ Despues activaremos el modulo cgid.<br>
 ```
 a2enmod cgid
 ```
+Vamos a reinicar el servicio de apache2 para aplicar los cambios.<br>
+```
+service apache2 restart
+```
 Descargamos el script Provincias.pl y lo pondremos en la siguiente ruta.<br>
 ```
 /usr/lib/cgi-bin/
