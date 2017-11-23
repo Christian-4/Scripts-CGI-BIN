@@ -17,4 +17,4 @@ if($ENV{'QUERY_STRING'} eq "") {
 else {
   @arGet=split("=",$ENV{'QUERY_STRING'});
   print "Vives en $arGet[1]";
-
+}
