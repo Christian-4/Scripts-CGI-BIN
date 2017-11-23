@@ -18,7 +18,11 @@ Descargamos el script Provincias.pl y lo pondremos en la siguiente ruta.<br>
 ```
 /usr/lib/cgi-bin/
 ```
+Le tendremos que dar permisos al script o nos saldrá un error.
+```
+chmod 777 /usr/lib/cgi-bin/Provincia.pl
+```
 Para probarlo abriremos un cliente web y pondremos en la url lo siguiente.<br>
 ```
-localhost/cgi-bin/Provincias.pl
+localhost/cgi-bin/Provincia.pl
 ```
