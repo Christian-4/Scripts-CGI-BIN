@@ -26,3 +26,4 @@ Para probarlo abriremos un cliente web y pondremos en la url lo siguiente.<br>
 ```
 localhost/cgi-bin/Provincia.pl
 ```
+
